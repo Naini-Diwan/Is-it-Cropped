@@ -48,5 +48,14 @@ An advanced, browser-based scan and crop application for processing multiple doc
 
 All image processing happens entirely in the browser. Scans and PDFs are never uploaded to a server — files are read, cropped, and exported locally using the Canvas API and JSZip.
 
+## Author
 
-### Copyright © 2026 Naini Diwan. All rights reserved.
+**Naini Diwan**
+
+- [LinkedIn Profile](https://www.linkedin.com/in/naini-diwan-profile786/)
+- [Portfolio](https://naini-diwan.github.io/Hello-Naini/)
+
+
+
+## License
+Copyright © 2026 Naini Diwan. All rights reserved.

@@ -261,7 +261,7 @@ export default function App() {
                 Batch Upload Scans & Document PDFs
               </h2>
               <p className="text-xs text-slate-500 max-w-md mx-auto leading-relaxed mb-6">
-                Drag & drop flatbed scan files or multi-page PDFs here. Pages are auto-extracted as high-res images entirely inside your browser.
+                Drag & drop flatbed scan files or multi-page PDFs here. Pages are auto-extracted as high-resolution images entirely inside the browser.
               </p>
 
               <div className="flex flex-wrap justify-center gap-2 text-[10px] text-slate-400 font-bold tracking-wider uppercase">
@@ -546,6 +546,29 @@ export default function App() {
         )}
 
       </main>
+
+      <footer className="border-t border-slate-100 py-3 px-4 text-center">
+        <p className="text-[11px] text-slate-400">
+          Built by{' '}
+          
+            href="https://naini-diwan.github.io/Hello-Naini/"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="text-slate-500 hover:text-blue-600 transition-colors underline underline-offset-2"
+          >
+            Naini Diwan
+          </a>
+          {' · '}
+          
+            href="https://www.linkedin.com/in/naini-diwan-profile786/"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="text-slate-500 hover:text-blue-600 transition-colors underline underline-offset-2"
+          >
+            LinkedIn
+          </a>
+        </p>
+      </footer>
 
       {/* Advanced Inspector modal */}
       {isAdvancedOpen && editingCrop && (
