@@ -1,10 +1,6 @@
-@import "tailwindcss";
-
-@theme {
-  --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
-  --font-display: "Space Grotesk", sans-serif;
-  --font-mono: "JetBrains Mono", monospace;
-}
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
 
 @layer utilities {
   .custom-scrollbar::-webkit-scrollbar {
@@ -19,4 +15,3 @@
     border-radius: 3px;
   }
 }
-
