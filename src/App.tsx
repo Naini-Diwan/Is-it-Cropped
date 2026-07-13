@@ -549,7 +549,7 @@ export default function App() {
 
       <footer className="border-t border-slate-100 py-3 px-4 text-center">
         <p className="text-[11px] text-slate-400">
-          Built by{'Naini Diwan'}
+          Built by{' Naini Diwan'}
           {' | '}
           <a 
             href="https://naini-diwan.github.io/Hello-Naini/"
