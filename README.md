@@ -57,7 +57,7 @@ All image processing happens entirely in the browser. Scans and PDFs are never u
 
 **Why did I develop this tool?**
 
-During my research internship at [IIIT Delhi](https://iiitd.ac.in/) one of the preliminary tasks was work on a dataset that strictly contains images of several english alphabet handwritten by me on a whiteboard. None of the (non-proprietary) tools present on web at that time allowed me to crop multiple parts (of my choice) from the same image, as many times I wanted. So I decided to develop this tool which I could use smoothly, and maybe it would help others.
+During my research internship at [IIIT Delhi](https://iiitd.ac.in/) one of the preliminary tasks was to work on a dataset that contains images of several english alphabet strictly handwritten by me on a whiteboard. None of the (non-proprietary) tools present on web at that time allowed me to crop multiple parts (of my choice) from the same image, as many times I wanted. So I decided to develop this tool which I could use smoothly. Publishing this website might help others also who need such kind of a functionality.
 
 ## License
 Copyright © 2026 Naini Diwan. All rights reserved.
